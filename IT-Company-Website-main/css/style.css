@@ -18,6 +18,14 @@ body{
     overflow-x: hidden;
 }
 
+.curriculum{
+    background-color: #2b3c5e;
+    border-radius: 20px;
+}
+.icons{
+    margin: 8%;
+}
+
 .heading, .clients .section-header h2, .section-head h1, .testimonials .section-header h2, .section-head-1 h4{
     margin: 2rem;
     padding-top: 6rem;
