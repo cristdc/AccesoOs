@@ -18,6 +18,11 @@ body{
     overflow-x: hidden;
 }
 
+.centrar{
+    width: 50%;
+    margin: auto;
+}
+
 .curriculum{
     background-color: #2b3c5e;
     border-radius: 20px;
