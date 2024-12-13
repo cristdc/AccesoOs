@@ -10,6 +10,12 @@
     text-decoration: none;
 }
 
+#video{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
 html{
     font-size: 62.5%;
 }
